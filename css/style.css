@@ -97,7 +97,9 @@ ul > li {
 		margin-right: 2em;
 	}
 	.content-wrap{
-		margin:70px auto;
+		margin-top:70px ;
+		margin-left:70px ;
+		margin-right:70px ;
 	  	width: 70%;
 	  	text-align: center;
 	  	height: 50%;
