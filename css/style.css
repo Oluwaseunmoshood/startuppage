@@ -75,6 +75,8 @@ ul > li {
 
 .section-two{
 	background-color: #07A4B5;
+	position: relative;
+	top: 0;
 }
 
 .content-wrap-2{
@@ -95,13 +97,12 @@ ul > li {
 		margin-right: 2em;
 	}
 	.content-wrap{
-		margin:100px auto;
+		margin:70px auto;
 	  	width: 70%;
 	  	text-align: center;
 	  	height: 50%;
 	}
 	.content-wrap-2{
-		margin: 0!important;
 	  	width: 70%;
 	  	text-align: center;
 	  	height: 50%;
